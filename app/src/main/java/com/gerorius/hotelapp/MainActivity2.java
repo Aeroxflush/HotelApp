@@ -19,7 +19,7 @@ public class MainActivity2 extends AppCompatActivity {
         setContentView(R.layout.activity_main2);
 
         _imageView2 = findViewById(R.id.imageView2);
-        String imageUrl= "https://the-travellist.com/wp-content/uploads/2023/11/Pantai-Karang-Cloudy-1024x658.jpg";
+        String imageUrl= "https://salsawisata.com/wp-content/uploads/2022/11/pantai-karang-sanur-bali.jpg";
         Picasso.with(this).load(imageUrl).into(_imageView2);
 
         btnToActivity = findViewById(R.id.btnToActivity1);

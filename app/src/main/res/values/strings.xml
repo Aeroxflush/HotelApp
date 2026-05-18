@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hotel App</string>
+    <string name="lorem_ipsum">
+         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mattis facilisis enim, eget semper nisl commodo in. In nulla lorem, pellentesque rutrum arcu ut, imperdiet vehicula ex. Donec cursus elit vel arcu imperdiet facilisis. Aliquam blandit sapien sed maximus laoreet. Sed tincidunt iaculis odio quis varius. Ut purus elit, blandit a urna eu, tempus rutrum leo. Phasellus varius nibh eget consequat suscipit. Cras convallis molestie ex vitae viverra. \n \n
+
+        Integer et magna orci. Proin scelerisque dictum quam in finibus. Aliquam sem risus, vehicula ut viverra ac, placerat vel sem. Sed auctor tellus sit amet leo porttitor, sit amet dictum mauris porttitor. Cras vehicula fringilla arcu, vel suscipit sapien blandit at. Fusce ut mollis orci. Suspendisse et ligula facilisis, scelerisque nisi a, tristique magna. Nullam posuere viverra sapien eget eleifend. Curabitur eleifend lobortis ullamcorper. Donec pellentesque ipsum sit amet arcu vehicula, vitae finibus est suscipit. Pellentesque mattis dolor velit, ac placerat arcu auctor non. Proin quam lorem, tincidunt et euismod et, ultrices at elit. Phasellus a tincidunt justo. Donec laoreet est neque, nec vestibulum libero euismod non. Donec luctus ornare nisi ullamcorper facilisis. \n \n
+
+        Aliquam facilisis, sem ac ultricies volutpat, erat nisi rutrum est, feugiat iaculis est elit id erat. Integer vitae lorem ante. Morbi tempor lectus eget magna laoreet accumsan. Curabitur hendrerit hendrerit eleifend. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis bibendum leo at ultricies. Maecenas nec lectus sit amet sem dignissim dictum. In feugiat purus lobortis viverra placerat. Praesent dictum, mauris nec tempus euismod, tellus orci venenatis mauris, vel scelerisque velit odio sit amet quam. Pellentesque ac purus ex. Suspendisse et congue metus, vitae gravida massa. Curabitur rutrum sit amet sapien non volutpat. Duis pharetra et elit id gravida. In ornare nulla vel molestie suscipit.
+    </string>
+    <string name="short_lorem">
+        Quisque consectetur facilisis mollis. Donec et laoreet sapien, eu fermentum orci. Pellentesque porta eu lorem id sollicitudin.
+    </string>
+</resources>
